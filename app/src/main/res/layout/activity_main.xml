@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="This Program is done for run in the real device OnePlus Two"
+        android:text="This Program is done for run in the genymotion emulator."
         android:id="@+id/textView"
         android:layout_centerVertical="true"
         android:layout_toEndOf="@+id/textView2"
